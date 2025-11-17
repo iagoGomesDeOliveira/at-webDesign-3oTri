@@ -47,10 +47,10 @@ header{
 
 @media (max-width:500px) {
     h1{
-        font-size: medium;
+        font-size:small;
     }
     p{
-    font-size:small;
+    font-size:x-small;
     }
     nav{
         width: 100%;
@@ -61,7 +61,8 @@ header{
     }
     button{
     width: 70px;
-    height: 35px;
+    height: 25px;
+    font-size: xx-small;
     }
     .box{
     margin-left: 0%;
